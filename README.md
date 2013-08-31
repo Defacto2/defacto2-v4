@@ -16,6 +16,8 @@ Most of the web application's settings can be found in Application.cfc or in the
 
 The recommended IDE to view this code is Eclipse combined with CFEclipse.
 
+The required MySQL database tables are at https://github.com/Defacto2/defacto2-version4-mysql-databases
+
 Eclipse http://www.eclipse.org/
 CFEclipse http://cfeclipse.org/
 
